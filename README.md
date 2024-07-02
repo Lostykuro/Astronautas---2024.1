@@ -15,4 +15,4 @@ g++ -o meu_programa main.cpp voo.cpp astronauta.cpp
 
 =======================================================================================
 
-o programa é bem intuitivo, acho que pra compensar o codigo bagunçado isso era o minimo
+o programa é bem intuitivo
