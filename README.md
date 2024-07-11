@@ -1,18 +1,16 @@
 
-
-                  _____ __  __ _____    ___   ___ ___  _  _  __ 
-                 |_   _|  \/  |  __ \  |__ \ / _ \__ \| || |/_ |
-                   | | | \  / | |  | |    ) | | | | ) | || |_| |
-                   | | | |\/| | |  | |   / /| | | |/ /|__   _| |
-                  _| |_| |  | | |__| |  / /_| |_| / /_   | |_| |
-                 |_____|_|  |_|_____/  |____|\___/____|  |_(_)_|
                                                         
                  feito por : João Maria de Araujo Nogueira Junior                                        
-=======================================================================================
+========================================================================================================================================
 
-caso queira recompilar use no terminal na mesma pasta com os arquivos de cabeçalho:
+
+o meu codigo utiliza 2 classes , a classe astronauta e classe voo, ambas contem vetores que arquivam os dados de cada individuo, desde a disponibilidade dos obejetos até seu seriais e atual situação.
+o programa utiliza de um menu, aonde o usario pode fazer modificações nesses dados privados atravez de metodos das classes.
+
+
+caso queira compilar use no terminal na mesma pasta com os arquivos de cabeçalho:
 g++ -o meu_programa main.cpp voo.cpp astronauta.cpp
 
-=======================================================================================
+========================================================================================================================================
 
-o programa é bem intuitivo
+
